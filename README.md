@@ -1,4 +1,4 @@
-This repository contains the code and report for my Deep Learning coursework. This coursework was submitted to the Department of Computer Science at Durham University, and was awarded a mark of 89%.
+The code and report in this repository were submitted as part of the 3rd year Deep Learning Module to the Computer Science Department at Durham University. It was awarded a mark of 89%.
 
 The task for this project had two parts:
 -Develop a classifier with fewer than 100,000 parameters, which achieves the highest accuracy possible on the CIFAR-100 dataset within 10,000 training steps.
