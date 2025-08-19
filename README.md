@@ -5,3 +5,5 @@ The task for this project had two parts:
 -Develop a generative model which produces distinct, realistic images. The model must have fewer than 1,000,000 parameters total, and must be trained for a maximum of 50,000 steps.
 
 We were encouraged to use any sources we could find online, including copying code from existing state-of-the-art models. The extremely small parameter limit made this very difficult.
+
+report.pdf details the architecture of the generative and classification models used. Performance metrics for both tasks are given with analysis, and limitations of both approaches are discussed.
